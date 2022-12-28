@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">week6</string>
+    <string name="menu_home">홈</string>
+    <string name="menu_menu">메뉴</string>
+    <string name="menu_setting">설정</string>
+</resources>
